@@ -1,4 +1,4 @@
-var uRL = "https://crudcrud.com/api/9fd1aec9decd40449c3203d217751256/itemsInfo";
+var uRL = "https://crudcrud.com/api/aaf640e471344042a0e862038602f772/itemsInfo";
         
         //to display existing items
         window.addEventListener("DOMContentLoaded",async ()=>{
